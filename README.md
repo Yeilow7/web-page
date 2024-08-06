@@ -18,4 +18,4 @@ Foster Connections: Provide contact information to facilitate collaboration and 
 ## How to View the Page
 The website is hosted on GitHub Pages and can be visited at the following URL:
 
-https://yeilow7.github.io/Yeilow7/
+https://yeilow7.github.io/web-page/
