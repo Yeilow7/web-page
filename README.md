@@ -1,6 +1,6 @@
 ### Project Description
 ## Personal Website of Juan Luis Ovalle
-This project is the personal website of Juan Luis Ovalle, a 17-year-old passionate about technology and artificial intelligence. The website is designed to serve as a portfolio and presentation platform, showcasing his skills, projects, and achievements in the fields of # artificial intelligence, programming, and other technological areas.
+This project is the personal website of Juan Luis Ovalle, a 17-year-old passionate about technology and artificial intelligence. The website is designed to serve as a portfolio and presentation platform, showcasing his skills, projects, and achievements in the fields of artificial intelligence, programming, and other technological areas.
 
 ## Main Features
 Introduction Section: A brief introduction of Juan Luis Ovalle, highlighting his passion for technology and his educational journey.
