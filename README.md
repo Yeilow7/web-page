@@ -1,4 +1,7 @@
 ### Project Description
+
+![JLO Web Page Preview](mipag.png)
+
 ## Personal Website of Juan Luis Ovalle
 This project is the personal website of Juan Luis Ovalle, a 17-year-old passionate about technology and artificial intelligence. The website is designed to serve as a portfolio and presentation platform, showcasing his skills, projects, and achievements in the fields of artificial intelligence, programming, and other technological areas.
 
